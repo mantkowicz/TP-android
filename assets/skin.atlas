@@ -1,0 +1,242 @@
+skin.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 1003
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+big
+  rotate: false
+  xy: 124, 2
+  size: 1024, 512
+  orig: 1024, 512
+  offset: 0, 0
+  index: -1
+cameraMoveButton
+  rotate: false
+  xy: 124, 516
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+cameraMoveButtonDown
+  rotate: false
+  xy: 266, 516
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+commitButton
+  rotate: false
+  xy: 408, 516
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+commitButtonDown
+  rotate: false
+  xy: 550, 516
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+homeButton
+  rotate: false
+  xy: 692, 516
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+homeButtonDown
+  rotate: false
+  xy: 834, 516
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+knob
+  rotate: false
+  xy: 250, 941
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 772
+  size: 600, 167
+  orig: 600, 167
+  offset: 0, 0
+  index: -1
+markCharacterButton
+  rotate: false
+  xy: 976, 516
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+markCharacterButtonDown
+  rotate: false
+  xy: 1118, 516
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+markSentenceButton
+  rotate: false
+  xy: 1120, 658
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+markSentenceButtonDown
+  rotate: false
+  xy: 1260, 516
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+medium
+  rotate: false
+  xy: 1150, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+medium_italic
+  rotate: false
+  xy: 604, 658
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+menuShowButton
+  rotate: false
+  xy: 1120, 800
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+menuShowButtonDown
+  rotate: false
+  xy: 1262, 658
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+minus
+  rotate: false
+  xy: 2, 941
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+nextButton
+  rotate: false
+  xy: 1402, 516
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+nextButtonDown
+  rotate: false
+  xy: 1262, 800
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 64, 941
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+previousButton
+  rotate: false
+  xy: 1404, 658
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+previousButtonDown
+  rotate: false
+  xy: 1544, 516
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+sensitivityButton
+  rotate: false
+  xy: 1404, 800
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+sensitivityButtonDown
+  rotate: false
+  xy: 1686, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+settings
+  rotate: false
+  xy: 126, 941
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+settingsButton
+  rotate: false
+  xy: 1828, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+settingsButtonDown
+  rotate: false
+  xy: 1686, 144
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+showAllButton
+  rotate: false
+  xy: 1828, 144
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+showAllButtonDown
+  rotate: false
+  xy: 1664, 286
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+small
+  rotate: false
+  xy: 862, 658
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 188, 941
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+verticalMenuBar
+  rotate: false
+  xy: 2, 2
+  size: 120, 768
+  orig: 120, 768
+  offset: 0, 0
+  index: -1

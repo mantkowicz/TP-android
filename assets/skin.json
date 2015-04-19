@@ -1,0 +1,48 @@
+{
+	com.badlogic.gdx.graphics.g2d.BitmapFont: 
+	{ 
+		small: { file: fonts/small.fnt },
+		medium: { file: fonts/medium.fnt },
+		medium_italic: { file: fonts/medium_italic.fnt },
+		big: { file: fonts/big.fnt }
+	},
+
+	com.badlogic.gdx.graphics.Color: 
+	{
+		white: { a: 1, b: 1, g: 1, r: 1 }
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: 
+	{
+	    default: { font: small, fontColor: white },
+	    italic: { font: medium_italic, fontColor: white },
+	    medium: { font: medium, fontColor: white },
+	    big: { font: big, fontColor: white }
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: 
+	{
+		default-horizontal: { background: background, disabledBackground: background, knob: knob, disabledKnob: knob },
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: 
+	{
+		menuShow: { down: menuShowButtonDown, up: menuShowButton},
+		home: { down: homeButtonDown, up: homeButton },
+		settings: { down: settingsButtonDown, up: settingsButton },
+		verify: { down: commitButtonDown, up: commitButton },
+		showAll: { down: showAllButtonDown, up: showAllButton },
+		sensitivity: { down: sensitivityButtonDown, up: sensitivityButton },
+		previous: { down: previousButtonDown, up: previousButton },
+		next: { down: nextButtonDown, up: nextButton },
+		moveCamera: { down: cameraMoveButtonDown, up: cameraMoveButton },
+		markSentence: { down: markSentenceButtonDown, up: markSentenceButton },
+		markCharacter: { down: markCharacterButtonDown, up: markCharacterButton },
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
+	{
+		start: { down: start, up: start, font: medium_italic, fontColor: white },
+		settings: { down: settings, up: settings, font: medium_italic, fontColor: white }
+	}
+}
