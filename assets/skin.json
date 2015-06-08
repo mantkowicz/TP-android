@@ -44,5 +44,10 @@
 	{
 		start: { down: start, up: start, font: medium_italic, fontColor: white },
 		settings: { down: settings, up: settings, font: medium_italic, fontColor: white }
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: 
+	{
+		default: { vScroll: gray, vScrollKnob: white, background: black, hScroll: gray, hScrollKnob: white }
 	}
 }
