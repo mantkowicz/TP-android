@@ -4,42 +4,42 @@ filter: Linear,Linear
 repeat: none
 back
   rotate: false
-  xy: 724, 461
+  xy: 724, 319
   size: 100, 93
   orig: 100, 93
   offset: 0, 0
   index: -1
 backDown
   rotate: false
-  xy: 828, 461
+  xy: 828, 319
   size: 100, 93
   orig: 100, 93
   offset: 0, 0
   index: -1
 background_black
   rotate: false
-  xy: 1000, 4
+  xy: 1019, 212
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 background_g30
   rotate: false
-  xy: 1005, 4
+  xy: 1019, 217
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 background_g50
   rotate: false
-  xy: 1005, 4
+  xy: 1019, 217
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 background_white
   rotate: false
-  xy: 1010, 4
+  xy: 1019, 222
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -51,58 +51,79 @@ big
   orig: 512, 256
   offset: 0, 37
   index: -1
+camera
+  rotate: false
+  xy: 724, 416
+  size: 100, 86
+  orig: 100, 100
+  offset: 0, 7
+  index: -1
+cameraDown
+  rotate: false
+  xy: 828, 416
+  size: 100, 86
+  orig: 100, 100
+  offset: 0, 7
+  index: -1
 clear
   rotate: false
-  xy: 896, 4
+  xy: 608, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 clearDown
   rotate: false
-  xy: 896, 108
+  xy: 712, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 default
   rotate: false
-  xy: 516, 252
+  xy: 517, 212
   size: 498, 103
   orig: 512, 128
   offset: 0, 25
   index: -1
+document
+  rotate: false
+  xy: 816, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+documentDown
+  rotate: false
+  xy: 920, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 hideMenu
   rotate: false
-  xy: 516, 463
+  xy: 516, 421
   size: 100, 64
   orig: 100, 64
   offset: 0, 0
   index: -1
 hideMenuDown
   rotate: false
-  xy: 620, 463
+  xy: 620, 421
   size: 100, 64
   orig: 100, 64
   offset: 0, 0
   index: -1
 home
   rotate: false
-  xy: 724, 359
+  xy: 516, 319
   size: 100, 98
   orig: 100, 98
   offset: 0, 0
   index: -1
-homeButton
-  rotate: false
-  xy: 608, 4
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
 homeDown
   rotate: false
-  xy: 828, 359
+  xy: 620, 319
   size: 100, 98
   orig: 100, 98
   offset: 0, 0
@@ -116,37 +137,44 @@ logo
   index: -1
 settings
   rotate: false
-  xy: 608, 148
+  xy: 608, 108
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-settingsButton
-  rotate: false
-  xy: 752, 4
-  size: 140, 140
-  orig: 140, 140
-  offset: 0, 0
-  index: -1
 settingsDown
   rotate: false
-  xy: 712, 148
+  xy: 712, 108
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 showMenu
   rotate: false
-  xy: 4, 558
+  xy: 4, 464
   size: 100, 64
   orig: 100, 64
   offset: 0, 0
   index: -1
 showMenuDown
   rotate: false
-  xy: 4, 464
+  xy: 108, 464
   size: 100, 64
   orig: 100, 64
+  offset: 0, 0
+  index: -1
+shrink
+  rotate: false
+  xy: 932, 319
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+shrinkDown
+  rotate: false
+  xy: 932, 373
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 small
@@ -156,17 +184,59 @@ small
   orig: 512, 64
   offset: 0, 2
   index: -1
+stretch
+  rotate: false
+  xy: 932, 427
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+stretchDown
+  rotate: false
+  xy: 932, 481
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 upload
   rotate: false
-  xy: 516, 359
+  xy: 816, 108
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 uploadDown
   rotate: false
-  xy: 620, 359
+  xy: 920, 108
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
+  index: -1
+zoomIn
+  rotate: false
+  xy: 212, 464
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+zoomInDown
+  rotate: false
+  xy: 266, 464
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+zoomOut
+  rotate: false
+  xy: 320, 464
+  size: 50, 40
+  orig: 50, 50
+  offset: 0, 5
+  index: -1
+zoomOutDown
+  rotate: false
+  xy: 374, 464
+  size: 50, 40
+  orig: 50, 50
+  offset: 0, 5
   index: -1

@@ -34,8 +34,12 @@
 		clear: { down: clearDown, up:clear },
 		settings: { down: settingsDown, up:settings },
 		upload: { down: uploadDown, up:upload },
-		homeButton: { down: homeButton, up: homeButton },
-		settingsButton: { down: settingsButton, up: settingsButton },
+		shrink: { down: shrinkDown, up:shrink },
+		stretch: { down: stretchDown, up:stretch },
+		zoomIn: { down: zoomInDown, up:zoomIn },
+		zoomOut: { down: zoomOutDown, up:zoomOut },
+		camera: { down: cameraDown, up:camera },
+		document: { down: documentDown, up:document },
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
