@@ -40,6 +40,8 @@
 		zoomOut: { down: zoomOutDown, up:zoomOut },
 		camera: { down: cameraDown, up:camera },
 		document: { down: documentDown, up:document },
+		cancel: { down: cancelDown, up:cancel },
+		cancelSmall: { down: cancelSmallDown, up:cancelSmall },
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 

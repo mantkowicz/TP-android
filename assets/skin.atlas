@@ -4,239 +4,274 @@ filter: Linear,Linear
 repeat: none
 back
   rotate: false
-  xy: 724, 319
+  xy: 791, 427
   size: 100, 93
   orig: 100, 93
   offset: 0, 0
   index: -1
 backDown
   rotate: false
-  xy: 828, 319
+  xy: 897, 439
   size: 100, 93
   orig: 100, 93
   offset: 0, 0
   index: -1
 background_black
   rotate: false
-  xy: 1019, 212
+  xy: 985, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+background_blue
+  rotate: false
+  xy: 992, 5
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 background_g30
   rotate: false
-  xy: 1019, 217
+  xy: 999, 5
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 background_g50
   rotate: false
-  xy: 1019, 217
+  xy: 1006, 5
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 background_white
   rotate: false
-  xy: 1019, 222
+  xy: 1013, 5
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 big
   rotate: false
-  xy: 4, 241
-  size: 508, 219
+  xy: 5, 178
+  size: 512, 256
   orig: 512, 256
-  offset: 0, 37
+  offset: 0, 0
   index: -1
 camera
   rotate: false
-  xy: 724, 416
-  size: 100, 86
+  xy: 611, 5
+  size: 100, 100
   orig: 100, 100
-  offset: 0, 7
+  offset: 0, 0
   index: -1
 cameraDown
   rotate: false
-  xy: 828, 416
-  size: 100, 86
+  xy: 717, 5
+  size: 100, 100
   orig: 100, 100
-  offset: 0, 7
+  offset: 0, 0
+  index: -1
+cancel
+  rotate: false
+  xy: 823, 5
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+cancelDown
+  rotate: false
+  xy: 611, 111
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+cancelSmall
+  rotate: false
+  xy: 929, 5
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+cancelSmallDown
+  rotate: false
+  xy: 929, 61
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
   index: -1
 clear
   rotate: false
-  xy: 608, 4
+  xy: 717, 111
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 clearDown
   rotate: false
-  xy: 712, 4
+  xy: 823, 111
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 default
   rotate: false
-  xy: 517, 212
-  size: 498, 103
+  xy: 5, 440
+  size: 512, 128
   orig: 512, 128
-  offset: 0, 25
+  offset: 0, 0
   index: -1
 document
   rotate: false
-  xy: 816, 4
+  xy: 579, 217
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 documentDown
   rotate: false
-  xy: 920, 4
+  xy: 685, 217
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 hideMenu
   rotate: false
-  xy: 516, 421
+  xy: 579, 429
   size: 100, 64
   orig: 100, 64
   offset: 0, 0
   index: -1
 hideMenuDown
   rotate: false
-  xy: 620, 421
+  xy: 685, 429
   size: 100, 64
   orig: 100, 64
   offset: 0, 0
   index: -1
 home
   rotate: false
-  xy: 516, 319
+  xy: 791, 323
   size: 100, 98
   orig: 100, 98
   offset: 0, 0
   index: -1
 homeDown
   rotate: false
-  xy: 620, 319
+  xy: 897, 335
   size: 100, 98
   orig: 100, 98
   offset: 0, 0
   index: -1
 logo
   rotate: false
-  xy: 4, 4
+  xy: 5, 5
   size: 600, 167
   orig: 600, 167
   offset: 0, 0
   index: -1
 settings
   rotate: false
-  xy: 608, 108
+  xy: 791, 217
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 settingsDown
   rotate: false
-  xy: 712, 108
+  xy: 897, 229
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 showMenu
   rotate: false
-  xy: 4, 464
+  xy: 579, 499
   size: 100, 64
   orig: 100, 64
   offset: 0, 0
   index: -1
 showMenuDown
   rotate: false
-  xy: 108, 464
+  xy: 685, 499
   size: 100, 64
   orig: 100, 64
   offset: 0, 0
   index: -1
 shrink
   rotate: false
-  xy: 932, 319
+  xy: 523, 178
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 shrinkDown
   rotate: false
-  xy: 932, 373
+  xy: 929, 117
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 small
   rotate: false
-  xy: 4, 175
-  size: 509, 62
+  xy: 5, 574
+  size: 512, 64
   orig: 512, 64
-  offset: 0, 2
+  offset: 0, 0
   index: -1
 stretch
   rotate: false
-  xy: 932, 427
+  xy: 929, 173
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 stretchDown
   rotate: false
-  xy: 932, 481
+  xy: 523, 234
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 upload
   rotate: false
-  xy: 816, 108
+  xy: 579, 323
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 uploadDown
   rotate: false
-  xy: 920, 108
+  xy: 685, 323
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 zoomIn
   rotate: false
-  xy: 212, 464
+  xy: 523, 290
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 zoomInDown
   rotate: false
-  xy: 266, 464
+  xy: 523, 346
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 zoomOut
   rotate: false
-  xy: 320, 464
-  size: 50, 40
+  xy: 523, 402
+  size: 50, 50
   orig: 50, 50
-  offset: 0, 5
+  offset: 0, 0
   index: -1
 zoomOutDown
   rotate: false
-  xy: 374, 464
-  size: 50, 40
+  xy: 523, 458
+  size: 50, 50
   orig: 50, 50
-  offset: 0, 5
+  offset: 0, 0
   index: -1
