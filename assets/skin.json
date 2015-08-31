@@ -20,6 +20,11 @@
 	    big: { font: big, fontColor: white }
 	},
 	
+	com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle:
+	{
+		yourButton: {imageUp: hideMenu, imageDown: showMenu, imageDisabled: upload},
+	},
+	
 	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: 
 	{
 		default-horizontal: { background: background_g30, disabledBackground: background_g30, knob: background_g50, disabledKnob: background_g50 },
