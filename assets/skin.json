@@ -14,7 +14,7 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: 
 	{
-	    default: { font: default, fontColor: white },
+	    default: { font: default, fontColor: black },
 	    medium: { font: default, fontColor: white },
 	    small: { font: small, fontColor: black },
 	    big: { font: big, fontColor: white }
@@ -27,7 +27,7 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: 
 	{
-		default-horizontal: { background: background_g30, disabledBackground: background_g30, knob: background_g50, disabledKnob: background_g50 },
+		default-horizontal: { background: background_g50, disabledBackground: background_g50, knob: background_g50, disabledKnob: background_g50 },
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: 
@@ -55,6 +55,6 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: 
 	{
-		default: { vScroll: background_g50, vScrollKnob: background_g50, background: background_g30, hScroll: background_g50, hScrollKnob: background_g50 }
+		default: { vScroll: background_g50, vScrollKnob: background_black, background: background_g30, hScroll: background_g50, hScrollKnob: background_black }
 	}
 }
