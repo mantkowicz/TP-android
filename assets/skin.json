@@ -48,6 +48,8 @@
 		document: { down: documentDown, up:document },
 		cancel: { down: cancelDown, up:cancel },
 		cancelSmall: { down: cancelSmallDown, up:cancelSmall },
+		left: { down: leftDown, up:left },
+		right: { down: rightDown, up: right },
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
