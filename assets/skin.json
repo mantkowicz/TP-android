@@ -17,24 +17,15 @@
 	{
 	    default: { font: default, fontColor: black },
 	    medium: { font: default, fontColor: white },
+	    mediumBlack: { font: default, fontColor: black },
 	    small: { font: small, fontColor: black },
 	    big: { font: big, fontColor: white }
 	},
-	
-	com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle:
-	{
-		yourButton: {imageUp: hideMenu, imageDown: showMenu, imageDisabled: upload},
-	},
-	
-	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: 
-	{
-		default-horizontal: { background: slider_g50, disabledBackground: slider_g50, knob: slider_g50, disabledKnob: slider_g50 },
-	},
-	
+		
 	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: 
 	{
-		menuHide: { down: hideMenuDown, up: hideMenu},
-		menuShow: { down: showMenuDown, up: showMenu},
+		menuHide: { down: hideMenu, up: hideMenu},
+		menuShow: { down: showMenu, up: showMenu},
 		home: { down: homeDown, up:home },
 		back: { down: backDown, up:back },
 		clear: { down: clearDown, up:clear },
@@ -50,6 +41,8 @@
 		cancelSmall: { down: cancelSmallDown, up:cancelSmall },
 		left: { down: leftDown, up:left },
 		right: { down: rightDown, up: right },
+		plus: { down: plusBigDown, up: plusBig },
+		minus: { down: minusBigDown, up: minusBig },
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
