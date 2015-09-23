@@ -19,6 +19,7 @@
 	    medium: { font: default, fontColor: white },
 	    mediumBlack: { font: default, fontColor: black },
 	    small: { font: small, fontColor: black },
+	    smallWhite: { font: small, fontColor: white },
 	    big: { font: big, fontColor: white }
 	},
 		
@@ -48,6 +49,7 @@
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
 	{
 		button: { down: buttonDown, up: button, font: default, fontColor: black, downFontColor: blue },
+		logout: { down: logoutDown, up: logout, font: default, fontColor: black, downFontColor: blue },
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: 
