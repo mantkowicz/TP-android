@@ -268,23 +268,79 @@ homeDown
   orig: 100, 98
   offset: 0, 0
   index: -1
-left
+hyphenAuto
   rotate: false
   xy: 523, 294
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-leftDown
+hyphenAutoDown
   rotate: false
   xy: 523, 350
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-lock
+hyphenOff
   rotate: false
   xy: 523, 406
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+hyphenOffDown
+  rotate: false
+  xy: 523, 462
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+hyphenOn
+  rotate: false
+  xy: 523, 518
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+hyphenOnDown
+  rotate: false
+  xy: 523, 574
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+hyphenReset
+  rotate: false
+  xy: 523, 630
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+hyphenResetDown
+  rotate: false
+  xy: 722, 663
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 722, 719
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+leftDown
+  rotate: false
+  xy: 616, 733
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 535, 785
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -361,14 +417,14 @@ plusBigDown
   index: -1
 right
   rotate: false
-  xy: 523, 462
+  xy: 884, 695
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 rightDown
   rotate: false
-  xy: 523, 518
+  xy: 940, 695
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -403,14 +459,14 @@ showMenuDown
   index: -1
 shrink
   rotate: false
-  xy: 523, 574
+  xy: 884, 751
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 shrinkDown
   rotate: false
-  xy: 523, 630
+  xy: 940, 751
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -438,28 +494,28 @@ small
   index: -1
 star
   rotate: false
-  xy: 722, 663
+  xy: 778, 765
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 starBig
   rotate: false
-  xy: 722, 663
+  xy: 778, 765
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 stretch
   rotate: false
-  xy: 722, 719
+  xy: 672, 775
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 stretchDown
   rotate: false
-  xy: 616, 733
+  xy: 591, 789
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -480,7 +536,7 @@ uploadDown
   index: -1
 user
   rotate: false
-  xy: 535, 785
+  xy: 535, 841
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -494,7 +550,7 @@ userBig
   index: -1
 yes
   rotate: false
-  xy: 884, 695
+  xy: 535, 897
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -508,28 +564,28 @@ yesBig
   index: -1
 zoomIn
   rotate: false
-  xy: 940, 695
+  xy: 535, 953
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 zoomInDown
   rotate: false
-  xy: 884, 751
+  xy: 591, 845
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 zoomOut
   rotate: false
-  xy: 940, 751
+  xy: 591, 901
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 zoomOutDown
   rotate: false
-  xy: 778, 765
+  xy: 591, 957
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

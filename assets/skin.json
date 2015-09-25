@@ -44,6 +44,10 @@
 		right: { down: rightDown, up: right },
 		plus: { down: plusBigDown, up: plusBig },
 		minus: { down: minusBigDown, up: minusBig },
+		hyphenOn: { down: hyphenOnDown, up: hyphenOn }, 
+		hyphenOff: { down: hyphenOffDown, up: hyphenOff }, 
+		hyphenAuto: { down: hyphenAutoDown, up: hyphenAuto }, 
+		hyphenReset: { down: hyphenResetDown, up: hyphenReset },
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
